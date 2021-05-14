@@ -1,6 +1,6 @@
 # Aelmgren
-
-![BannerGIF](https://github.com/Aelmgren/Aelmgren/blob/main/img/Anders%20Elmgren.gif?raw=true)&nbsp;<br />
+<img src="https://github.com/Aelmgren/Aelmgren/blob/main/img/Anders%20Elmgren.gif" width="100%" />
+<br />
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
