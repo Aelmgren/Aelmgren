@@ -11,5 +11,3 @@
 <a href="https://www.linkedin.com/in/aelmgren/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <br />
 
-- 📫 How to reach me: [@aelmgren](https://twitter.com/a_elmgren);
-- 📝 [Resume](https://drive.google.com/)
